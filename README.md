@@ -138,7 +138,7 @@ Modern responsive dental clinic website built using modern frontend technologies
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakchauhan255-hub&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthakchauhan255-hub&theme=github_dark" />
 </p>
 
 ---
