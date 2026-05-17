@@ -2,7 +2,7 @@
 
 ### 🚀 AI Engineer | ML Developer | Web Developer
 
-Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and building modern web applications.
+Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and modern web development.
 
 ---
 
@@ -11,7 +11,7 @@ Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and b
 ## 🦷 Dental Care Website
 - Responsive clinic website
 - Modern UI/UX
-- React-based frontend
+- React frontend
 
 ---
 
@@ -37,33 +37,38 @@ Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and b
 # 🛠 Tech Stack
 
 ## Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-## AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
 
 ## Web Development
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthakchauhan255-hub&show_icons=true&theme=tokyonight)
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakchauhan255-hub&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakchauhan255-hub&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sarthakchauhan255-hub&theme=tokyonight)
-
----
-
-# 📫 Connect With Me
-
-- GitHub: https://github.com/sarthakchauhan255-hub
+![GitHub Streak](https://streak-stats.demolab.com?user=sarthakchauhan255-hub&theme=tokyonight)
 
 ---
 
@@ -75,17 +80,8 @@ Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and b
 - Full Stack Development
 - Modern React Applications
 
-<!--
-**sarthakchauhan255-hub/sarthakchauhan255-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 📫 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: https://github.com/sarthakchauhan255-hub
