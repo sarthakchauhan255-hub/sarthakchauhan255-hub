@@ -1,5 +1,3 @@
-<!-- PROFILE HEADER -->
-
 <h1 align="center">Hi 👋, I'm Sarthak Chauhan</h1>
 
 <h3 align="center">
@@ -34,11 +32,10 @@ Passionate about Artificial Intelligence, Deep Learning, Generative AI, and buil
 Modern responsive dental clinic website built using modern frontend technologies.
 
 ### Tech Used
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,html,css,tailwind" />
+</p>
 
 ---
 
@@ -46,20 +43,15 @@ Modern responsive dental clinic website built using modern frontend technologies
 
 ## 📊 Machine Learning Projects
 
-### Employee Attrition Prediction
-Machine learning model for predicting employee attrition.
-
-### Restaurant Tips Prediction
-Linear regression model using restaurant tipping dataset.
+- Employee Attrition Prediction
+- Restaurant Tips Prediction
+- Regression & Classification Models
 
 ### Skills Used
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
 ---
 
@@ -69,11 +61,6 @@ Linear regression model using restaurant tipping dataset.
 - Neural Networks
 - NLP Systems
 - Computer Vision
-
-### Deep Learning Stack
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
@@ -132,20 +119,10 @@ Linear regression model using restaurant tipping dataset.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Overview
 
 <p align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=sarthakchauhan255-hub&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="180"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakchauhan255-hub&layout=compact&theme=tokyonight&hide_border=true" 
-  height="180"
-/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthakchauhan255-hub&theme=github_dark" />
 </p>
 
 ---
@@ -153,35 +130,15 @@ Linear regression model using restaurant tipping dataset.
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=sarthakchauhan255-hub&theme=tokyonight&hide_border=true" 
-/>
-
+  <img src="https://streak-stats.demolab.com?user=sarthakchauhan255-hub&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Most Used Languages
 
 <p align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakchauhan255-hub&theme=tokyo-night&hide_border=true" 
-/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=sarthakchauhan255-hub&theme=tokyonight&no-frame=true&row=1&column=6" 
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakchauhan255-hub&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -219,10 +176,10 @@ Linear regression model using restaurant tipping dataset.
 
 ---
 
+# 👀 Profile Views
+
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sarthakchauhan255-hub&label=Profile%20Views&color=0e75b6&style=flat" />
-
+  <img src="https://komarev.com/ghpvc/?username=sarthakchauhan255-hub&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
